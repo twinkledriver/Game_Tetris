@@ -1,0 +1,1 @@
+d:\documents\visual studio 2012\Projects\Game_Tetris\Game_Tetris\bin\Debug\Game_Tetris.exe.config
