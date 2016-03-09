@@ -1,1 +1,13 @@
 d:\documents\visual studio 2012\Projects\Game_Tetris\Game_Tetris\bin\Debug\Game_Tetris.exe.config
+d:\documents\visual studio 2012\Projects\Game_Tetris\Game_Tetris\bin\Debug\Game_Tetris.exe
+d:\documents\visual studio 2012\Projects\Game_Tetris\Game_Tetris\bin\Debug\Game_Tetris.pdb
+d:\documents\visual studio 2012\Projects\Game_Tetris\Game_Tetris\obj\Debug\Game_Tetris.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2012\Projects\Game_Tetris\Game_Tetris\obj\Debug\MainWindow.baml
+d:\documents\visual studio 2012\Projects\Game_Tetris\Game_Tetris\obj\Debug\MainWindow.g.cs
+d:\documents\visual studio 2012\Projects\Game_Tetris\Game_Tetris\obj\Debug\App.g.cs
+d:\documents\visual studio 2012\Projects\Game_Tetris\Game_Tetris\obj\Debug\Game_Tetris_MarkupCompile.cache
+d:\documents\visual studio 2012\Projects\Game_Tetris\Game_Tetris\obj\Debug\Game_Tetris.g.resources
+d:\documents\visual studio 2012\Projects\Game_Tetris\Game_Tetris\obj\Debug\Game_Tetris.Properties.Resources.resources
+d:\documents\visual studio 2012\Projects\Game_Tetris\Game_Tetris\obj\Debug\Game_Tetris.csproj.GenerateResource.Cache
+d:\documents\visual studio 2012\Projects\Game_Tetris\Game_Tetris\obj\Debug\Game_Tetris.exe
+d:\documents\visual studio 2012\Projects\Game_Tetris\Game_Tetris\obj\Debug\Game_Tetris.pdb

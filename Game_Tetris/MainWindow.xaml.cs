@@ -24,5 +24,21 @@ namespace Game_Tetris
         {
             InitializeComponent();
         }
+
+        private void Hyperlink_Click(object sender, RoutedEventArgs e)
+        {
+            Window win = new Window();
+            win.Title = "子窗体1";
+            win.Content = "单击超链接所引发的事件1";
+            win.ShowDialog();
+        }
+
+        private void Hyperlink_Click2(object sender, RoutedEventArgs e)
+        {
+            Window win = new Window();
+            win.Title = "子窗体2";
+            win.Content = "单击超链接所引发的事件2";
+            win.ShowDialog();
+        }
     }
 }
