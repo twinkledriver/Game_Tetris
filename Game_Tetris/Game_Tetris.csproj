@@ -65,6 +65,13 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="BlockShape\Z型.cs" />
+    <Compile Include="BlockShape\_7型.cs" />
+    <Compile Include="BlockShape\反7型.cs" />
+    <Compile Include="BlockShape\反Z型.cs" />
+    <Compile Include="BlockShape\土型.cs" />
+    <Compile Include="BlockShape\田型.cs" />
+    <Compile Include="BlockShape\长条形.cs" />
     <Compile Include="GameLogic\BlockRecord.cs" />
     <Compile Include="GameLogic\ButtonRecord.cs" />
     <Compile Include="GameLogic\GamePlayer.cs" />
@@ -80,6 +87,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
