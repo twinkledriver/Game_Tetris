@@ -25,17 +25,7 @@
         <Label FontSize="18" Grid.Column="1" Content="下个方块：" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="4,205,0,0"/>
         <StackPanel   Grid.Column="1" HorizontalAlignment="Left" Height="85" Margin="64,239,0,0" VerticalAlignment="Top" Width="114"/>
         
-        <TextBlock Grid.Column="1" HorizontalAlignment="Left" Margin="90,335,0,0" TextWrapping="Wrap"  VerticalAlignment="Top"> 
-        <Hyperlink  Click="Hyperlink_Click">
-            <Run Text="排行榜" Cursor="Hand" />
-        </Hyperlink>
-        </TextBlock>
-       
-        <TextBlock Grid.Column="1" HorizontalAlignment="Left" Margin="159,336,0,0" TextWrapping="Wrap"  VerticalAlignment="Top"> 
-        <Hyperlink  Click="Hyperlink_Click2">
-            <Run Text="关于" Cursor="Hand" />
-        </Hyperlink>
-        </TextBlock>
+      
         <Button Content="开始" Grid.Column="1" HorizontalAlignment="Left" Margin="52,358,0,0" VerticalAlignment="Top" Width="75"/>
         <Button Content="停止" Grid.Column="1" HorizontalAlignment="Left" Margin="137,357,0,0" VerticalAlignment="Top" Width="75"/>
 

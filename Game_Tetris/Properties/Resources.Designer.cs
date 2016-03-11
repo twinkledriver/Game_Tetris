@@ -67,5 +67,7 @@ namespace Game_Tetris.Properties
                 resourceCulture = value;
             }
         }
+
+        public static System.Drawing.Image zhujiemian { get; set; }
     }
 }

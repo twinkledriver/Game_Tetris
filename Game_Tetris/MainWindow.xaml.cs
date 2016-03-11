@@ -486,7 +486,8 @@ namespace Game_Tetris
 
         private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-
+            Record R = new Record(this);
+            R.ShowDialog();
         }
     }
 }

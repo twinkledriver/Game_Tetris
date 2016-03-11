@@ -44,7 +44,7 @@ namespace Game_Tetris.GameLogic
              }
 
          }
-         public void contray()
+         public void contrary()
          {
              try
              {
